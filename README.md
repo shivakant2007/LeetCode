@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivakant2007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shivakant2007/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shivakant2007/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/shivakant2007/LeetCode/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shivakant2007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivakant2007/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/shivakant2007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shivakant2007/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
 |  |
 | ------- |
