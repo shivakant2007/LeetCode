@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivakant2007/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shivakant2007/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivakant2007/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shivakant2007/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0268-missing-number](https://github.com/shivakant2007/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shivakant2007/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/shivakant2007/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivakant2007/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shivakant2007/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivakant2007/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/shivakant2007/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Divide and Conquer
 |  |
 | ------- |
