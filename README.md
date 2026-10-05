@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivakant2007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/shivakant2007/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivakant2007/LeetCode/tree/master/0326-power-of-three) |
 ## Binary Search
@@ -31,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivakant2007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/shivakant2007/LeetCode/tree/master/0326-power-of-three) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shivakant2007/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
